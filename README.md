@@ -1,3 +1,2 @@
-# code-journal
+# Workit Landing Page
 
-An HTML, CSS, and TypeScript journal app.
